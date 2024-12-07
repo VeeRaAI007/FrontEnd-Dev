@@ -4,3 +4,5 @@ learning parts of frontend web development
 3. JAVASCRIPT
 4. FRAMWORKS
 5.Git and github[version Control]
+6. How to upload files
+7.git practice.

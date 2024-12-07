@@ -1,3 +1,6 @@
-hi
-how are you doing...
-git and github
+learning parts of frontend web development
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. FRAMWORKS
+5.Git and github[version Control]
